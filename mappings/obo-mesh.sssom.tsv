@@ -1087,3 +1087,31 @@ UBERON:0024914	circuit part of central nervous system	skos:relatedMatch	M0014676
 UBERON:2005044	optic artery	skos:narrowMatch	M0029452	Ciliary Arteries	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0029452
 UBERON:8410081	blood microvessel	skos:narrowMatch	M0001736	Arteriovenous Anastomosis	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0001736
 UBERON:8900000	sensory corpuscle	skos:narrowMatch	M0009535	Golgi-Mazzoni Corpuscles	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0009535
+CL:0000010	cultured cell	skos:narrowMatch	M0028573	Jurkat Cells	semapv:ManualMappingCuration	CL	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0028573
+CL:0000094	granulocyte	skos:exactMatch	M0009603	Granulocytes	semapv:ManualMappingCuration	CL	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0009603
+CL:0000097	mast cell	skos:exactMatch	M0013089	Mast Cells	semapv:ManualMappingCuration	CL	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0013089
+CL:0000100	motor neuron	skos:relatedMatch	M0572382	Central Pattern Generators	semapv:ManualMappingCuration	CL	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0572382
+CL:0000205	thermoreceptor cell	skos:exactMatch	M0021309	Thermoreceptors	semapv:ManualMappingCuration	CL	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0021309
+CL:0000527	efferent neuron	skos:exactMatch	M0014738	Neurons, Efferent	semapv:ManualMappingCuration	CL	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0014738
+CL:0000542	lymphocyte	skos:relatedMatch	M0024809	Lymphocytes, Tumor-Infiltrating	semapv:ManualMappingCuration	CL	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0024809
+CL:0000545	T-helper 1 cell	skos:exactMatch	M0027645	Th1 Cells	semapv:ManualMappingCuration	CL	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0027645
+CL:0000546	T-helper 2 cell	skos:exactMatch	M0027646	Th2 Cells	semapv:ManualMappingCuration	CL	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0027646
+CL:0000556	megakaryocyte	skos:exactMatch	M0013294	Megakaryocytes	semapv:ManualMappingCuration	CL	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0013294
+CL:0000561	amacrine cell	skos:exactMatch	M0373280	Amacrine Cells	semapv:ManualMappingCuration	CL	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0373280
+CL:0000576	monocyte	skos:relatedMatch	M0024854	Monocytes, Activated Killer	semapv:ManualMappingCuration	CL	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0024854
+CL:0000617	GABAergic neuron	skos:exactMatch	M0549430	GABAergic Neurons	semapv:ManualMappingCuration	CL	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0549430
+CL:0000623	natural killer cell	skos:exactMatch	M0012035	Killer Cells, Natural	semapv:ManualMappingCuration	CL	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0012035
+CL:0000623	natural killer cell	skos:relatedMatch	M0024414	Killer Cells, Lymphokine-Activated	semapv:ManualMappingCuration	CL	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0024414
+CL:0000767	basophil	skos:exactMatch	M0002222	Basophils	semapv:ManualMappingCuration	CL	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0002222
+CL:0000842	mononuclear cell	skos:relatedMatch	M0518850	Cytokine-Induced Killer Cells	semapv:ManualMappingCuration	CL	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0518850
+CL:0000891	foam cell	skos:exactMatch	M0008654	Foam Cells	semapv:ManualMappingCuration	CL	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0008654
+CL:0000899	T-helper 17 cell	skos:exactMatch	M0542928	Th17 Cells	semapv:ManualMappingCuration	CL	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0542928
+GO:0014069	postsynaptic density	skos:exactMatch	M0539802	Post-Synaptic Density	semapv:ManualMappingCuration	GO	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0539802
+GO:0043679	axon terminus	skos:exactMatch	M0026794	Presynaptic Terminals	semapv:ManualMappingCuration	GO	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0026794
+GO:0097418	neurofibrillary tangle	skos:exactMatch	M0025677	Neurofibrillary Tangles	semapv:ManualMappingCuration	GO	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0025677
+GO:0097457	hippocampal mossy fiber	skos:exactMatch	M0029098	Mossy Fibers, Hippocampal	semapv:ManualMappingCuration	GO	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0029098
+GO:0150002	distal dendrite	skos:relatedMatch	M0029099	Neuropil Threads	semapv:ManualMappingCuration	GO	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0029099
+UBERON:0000945	stomach	skos:narrowMatch	M0027779	Gastric Stump	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0027779
+UBERON:0001910	medial forebrain bundle	skos:relatedMatch	M000766884	Mesolimbic System	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M000766884
+UBERON:0001969	blood plasma	skos:narrowMatch	M0495288	Platelet-Rich Plasma	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0495288
+UBERON:0002054	zona fasciculata of adrenal gland	skos:exactMatch	M0023699	Zona Fasciculata	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-04-07	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0023699
