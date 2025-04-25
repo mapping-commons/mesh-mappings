@@ -1058,7 +1058,6 @@ UBERON:0000387	meniscus	skos:narrowMatch	M0013377	Menisci, Tibial	semapv:ManualM
 UBERON:0000948	heart	skos:narrowMatch	M0008401	Fetal Heart	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0008401
 UBERON:0001027	sensory nerve	skos:broadMatch	M0000529	Afferent Pathways	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0000529
 UBERON:0001027	sensory nerve	skos:narrowMatch	M0026944	Visceral Afferents	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0026944
-UBERON:0001134	skeletal muscle tissue	skos:broadMatch	M0027725	Muscle, Skeletal	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0027725
 UBERON:0001192	left gastric artery	skos:broadMatch	M000640738	Gastric Artery	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M000640738
 UBERON:0001236	adrenal medulla	skos:relatedMatch	M000682957	Sympathoadrenal System	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M000682957
 UBERON:0001393	auditory cortex	skos:broadMatch	M0001967	Auditory Pathways	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0001967
@@ -1073,8 +1072,8 @@ UBERON:0002018	synovial membrane of synovial joint	skos:broadMatch	M0020962	Syno
 UBERON:0002034	suprachiasmatic nucleus	skos:relatedMatch	M000626819	Suprachiasmatic Nucleus Neurons	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M000626819
 UBERON:0002410	autonomic nervous system	skos:narrowMatch	M0026867	Autonomic Pathways	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0026867
 UBERON:0002555	intermediate hypothalamic region	skos:relatedMatch	M0010942	Hypothalamus, Middle	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0010942
-UBERON:0002629	triangular part of inferior frontal gyrus	skos:broadMatch	M0008847	Broca Area	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0008847
 UBERON:0002728	entorhinal cortex	skos:relatedMatch	M000612949	Grid Cells	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M000612949
+UBERON:0002629	triangular part of inferior frontal gyrus	skos:broadMatch	M0008847	Broca Area	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0008847
 UBERON:0002980	opercular part of inferior frontal gyrus	skos:broadMatch	M0008847	Broca Area	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0008847
 UBERON:0003499	brain blood vessel	skos:broadMatch	M0022533	Vasa Nervorum	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0022533
 UBERON:0003897	axial muscle	skos:relatedMatch	M0579782	Paraspinal Muscles	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0579782
@@ -1096,7 +1095,7 @@ UBERON:0010292	episcleral layer of eyeball	skos:relatedMatch	M0542712	Tenon Caps
 UBERON:0010394	lymphocyte domain	skos:relatedMatch	M000617918	Tertiary Lymphoid Structures	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M000617918
 UBERON:0011088	ligament of knee joint	skos:narrowMatch	M0027031	Medial Collateral Ligament, Knee	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0027031
 UBERON:0011926	postganglionic sympathetic fiber	skos:narrowMatch	M0000496	Adrenergic Fibers	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0000496
-UBERON:0014892	skeletal muscle organ, vertebrate	skos:broadMatch	M0027725	Muscle, Skeletal	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0027725
+UBERON:0014892	skeletal muscle organ, vertebrate	skos:exactMatch	M0027725	Muscle, Skeletal	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-04-25	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0027725
 UBERON:0016636	supplemental motor cortex	skos:broadMatch	M0593045	Sensorimotor Cortex	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0593045
 UBERON:0022268	planum temporale	skos:relatedMatch	M0021150	Wernicke Area	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M0021150
 UBERON:0024914	circuit part of central nervous system	skos:relatedMatch	M000677381	Default Mode Network	semapv:ManualMappingCuration	UBERON	MeSH	1	2025-03-26	orcid:0000-0001-8314-2140	http://id.nlm.nih.gov/mesh/M000677381
