@@ -1,0 +1,17 @@
+curie_map:
+  MESH: http://id.nlm.nih.gov/mesh/
+  CL: http://purl.obolibrary.org/obo/CL_
+  UBERON: http://purl.obolibrary.org/obo/UBERON_
+  GO: http://purl.obolibrary.org/obo/GO_
+  OBA: http://purl.obolibrary.org/obo/OBA_
+  skos: http://www.w3.org/2004/02/skos/core
+license: https://creativecommons.org/publicdomain/zero/1.0/
+mapping_provider: https://www.ebi.ac.uk
+mapping_set_group: obo_mesh_mappings
+mapping_set_id: obo_mesh
+mapping_set_title: 'OBO Ontology Mappings to MeSH'
+object_source: https://nlmpubs.nlm.nih.gov/projects/mesh/rdf/mesh.nt.gz
+subject_source: http://purl.obolibrary.org/obo/cl.owl
+subject_source: http://purl.obolibrary.org/obo/uberon.owl
+subject_source: http://purl.obolibrary.org/obo/go.owl
+subject_source: http://purl.obolibrary.org/obo/oba.owl
