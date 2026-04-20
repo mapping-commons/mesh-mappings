@@ -1,5 +1,5 @@
-registry_id: mapping-registry-id
-registry_title: Mapping Registry Template
+mapping_registry_id: mapping-registry-id
+mapping_registry_title: Mapping Registry Template
 registry_description: This is a template for a mapping registry, use to jumpstart your own.
 homepage: https://github.com/mapping-commons/mapping-commons-template
 mappings:
